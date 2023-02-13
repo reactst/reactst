@@ -18,7 +18,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" />
 </p>
 
-**# 📊 GitHub Stats**:
+### 📊 GitHub Stats:
 
 <center>
   <table>
