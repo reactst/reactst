@@ -12,22 +12,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
 </p>
 
-### 📊 GitHub Stats:
-
-<center>
-  <table>
-    <tr>
-        <td>
-          <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactst&hide=html,makefile,vhdl,c,qmake&langs_count=6&layout=compact&theme=dracula" />
-      	</td>
-      	<td>
-          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=reactst&show_icons=true&count_private=true&theme=dracula" />
-      	</td>
-    </tr>   
-  </table>
-</center>
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/reactst?tab=repositories)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giugum)
