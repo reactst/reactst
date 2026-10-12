@@ -21,3 +21,4 @@ When I'm not fixing computers or troubleshooting MX records, you can find me:
 
 ### 📫 Let's Connect
 * **Website:** [gintech.hr](https://gintech.hr)
+* **E-Mail:** [roko@gintech.hr](roko@gintech.hr)
